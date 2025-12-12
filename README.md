@@ -1,2 +1,2 @@
 # ResRSS
-Generates periodic research briefs from a local server and publishes them as an RSS feed for easy subscription and distribution.
+Welcome to Nie’s ResRSS — a lightweight tool designed to deliver periodic research briefs directly from a local, institution-network-based server. Many academic journals restrict access to institutional IP ranges, so this system runs on a small server placed within my university network to fetch the latest research updates. These updates are then automatically pushed to GitHub and published as an RSS feed, making it easy to subscribe to, share, and stay informed. ResRSS also leverages LLMs to clean, summarize, and organize the collected information, providing a more accessible and streamlined research-tracking experience.
